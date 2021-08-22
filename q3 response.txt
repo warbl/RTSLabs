@@ -1,0 +1,4 @@
+#3 If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?
+
+For Java and C, memory management and manually having to keep track of garbage collection was one of the most tedious and frustrating things to keep track of.
+I understand the necessity of it for optimization, but working with Python is a much more straightforward process.
